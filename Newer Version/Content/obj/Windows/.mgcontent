@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/ball.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/baseTile.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/Player.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/Q.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/UItop.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/myFont.spritefont</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/W.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/E.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/lifeBar.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/energyBar.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/selector.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/cloud.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/enemy.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/enemy1.png</File>
+    <File>D:/Programación/C#/MonoGame/Ludum Dare 33/MonsterGame/MonsterGame/Content/Textures/Shuriken.png</File>
+  </SourceFiles>
+</SourceFileCollection>
